@@ -1,0 +1,18 @@
+.lemonlogo{
+  color: green;
+  /* background-color: rgb(214, 214, 82); */
+  font-size: 4em;
+  font-family: "Bytesized", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  margin: 1%;
+}
+
+.maindiv{
+  /* border: 1px solid grey; */
+  display: flex;
+  flex-direction: row;
+  /* background-color: grey; */
+}
+
+/* style for navbar */

@@ -1,0 +1,6 @@
+[
+  {"id":"1", "name":"Mango", "price":"10", "description":"Alphanzo"},
+  {"id":"2", "name":"Apple", "price":"16", "description":"Kashmiri Apple"},
+  {"id":"3", "name":"Lemon", "price":"20", "description":"Full of Vitamin C"},
+  {"id":"4", "name":"Grapes", "price":"35", "description":"Rich Grapes"}
+]
