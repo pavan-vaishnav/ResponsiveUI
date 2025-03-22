@@ -12,7 +12,7 @@ import strawberryjuice from "../src/assets/Images/strawberryjuice.jpeg"
 
 // header 
 import baner from "../src/assets/Images/baner.jpg"
-import juicebaner from "../src/assets/Images/juiceimg.jpg"
+import juiceimg from "../src/assets/Images/juiceimg.jpg"
 import heroimg from "../src/assets/Images/heroimg.jpg"
 import heroimg1 from "../src/assets/Images/heroimg1.jpg"
 import heroimg2 from "../src/assets/Images/heroimg2.jpg"
