@@ -12,7 +12,7 @@ import strawberryjuice from "../src/assets/Images/strawberryjuice.jpeg"
 
 // header 
 import baner from "../src/assets/Images/baner.jpg"
-import baner2 from "../src/assets/Images/baner2.jpg"
+import juicebaner from "../src/assets/Images/juiceimg.jpg"
 import heroimg from "../src/assets/Images/heroimg.jpg"
 import heroimg1 from "../src/assets/Images/heroimg1.jpg"
 import heroimg2 from "../src/assets/Images/heroimg2.jpg"
@@ -26,7 +26,7 @@ export const mainimg = {
   heroimg,
   heroimg1,
   heroimg2,
-  baner2,
+  juiceimg,
   c1,
   c2,
   c3,

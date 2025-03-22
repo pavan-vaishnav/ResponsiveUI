@@ -13,7 +13,6 @@ const App = () => {
     <div className=''>
       {/* <h1>Pavan Vaishnav</h1>  */}
       <Header />
-      {/* <Baner /> */}
       <h1 className='text-center m-4 p-2 bg-green-300'>Fruits</h1>
       <Baner2/>
       <Cards />

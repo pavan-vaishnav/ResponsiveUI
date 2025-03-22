@@ -1,5 +1,4 @@
 import React from 'react'
-import data from "../data.json"
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { juice } from '../Img';
